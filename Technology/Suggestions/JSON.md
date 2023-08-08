@@ -1,0 +1,7 @@
+- JSON's concise syntax makes it easier to understand and work with, especially in APIs and configuration files
+- JSON employs a simple key-value pair structure that is easier to grasp and work with
+- JSON does not have namespace concerns
+- JSON schema definitions (such as JSON Schema) are often simpler and more intuitive
+- JSON is commonly used for AJAX requests and RESTful APIs due to its lightweight nature and compatibility with JavaScript
+- Parsing and processing JSON documents is simpler
+- JSON has become more prevalent in modern development, resulting in a richer ecosystem of tools, libraries, and frameworks for working with JSON compared to XML

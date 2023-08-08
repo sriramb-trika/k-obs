@@ -1,0 +1,8 @@
+- Elasticity is the capability for a cloud-based program to require more or fewer resources
+- You can scale computer processing, memory, and storage capacity in cloud computing to match changing demands
+- Without Cloud Elasticity, businesses would be forced to pay for largely un-utilized capacity and manage it through OS updates, patching, and component failures
+- Cloud elasticity helps users prevent over-provisioning or under-provisioning system resources. 
+	- Over-provisioning refers to a scenario where you buy more capacity than you need
+	- Under-provisioning refers to allocating fewer resources than you are used to
+- Scaling with Elasticity provides a middle ground
+	- Elasticity is ideal for short-term needs, such as handling website traffic spikes and database backup

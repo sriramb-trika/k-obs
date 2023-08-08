@@ -1,0 +1,30 @@
+Below are the list of 3rd party software whose versions are old and the licensing and support has not been there
+
+- Bloomreach
+- Adobe Analytics
+- Cybersource
+- Bazaarvoice
+- Listrak
+- Adobe Target
+- Adobe Tag Manager
+- Valuelink
+- Pixlee
+- ESB Service
+- Google Geolocation
+- AIMIA Kognitiv
+- Fedex
+- Giveworx
+- Brightedge
+- DesignesDirect / Storefront.com
+- Wellsfargo
+- Paypal
+- OMS
+- RPM
+- RMS
+- Thomson Reuters
+- DataLog
+- Thomson Reuters
+- OCP - General
+- OCP - Site Manager
+- Zendesk
+- Cloudfront

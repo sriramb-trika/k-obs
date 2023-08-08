@@ -1,0 +1,13 @@
+- Data layer is using traditional way of reading and writing data using DAO (Data Access Object)
+- In OCP, the DAO classes handle the full objects at all the time. This introduces overhead while running simple queries
+- The connection would not be closed once the DB call is made
+- The domain objects might become tightly coupled with the database schema, making changes harder to manage.
+- Always have to rely on the synchronous way of reading the data using for or forEach looping
+- ORM support is not there yet hence we have to rely on writing queries to fetch data 
+- Using DAO leads to incorrect abstraction, code duplication and abstraction inversion
+- In particular, the abstraction of the DAO as a regular Java object can obscure the high cost of each database access
+- Changes to the database schema or domain objects can have a cascading effect on the entire data layer, leading to maintenance challenges.
+- Developers may inadvertently make multiple database queries to retrieve information that could be returned in a single operation
+- If an application requires multiple DAOs, the same create, read, update, and delete code may have to be written for each DAO
+- [[Data Mocking]] is one of the key challenges when we have to make a copy of data available for any kind of testing
+- Managing database schema changes and versioning alongside application code changes can be challenging and require careful coordination.
